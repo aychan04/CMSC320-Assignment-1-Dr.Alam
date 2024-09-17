@@ -8,3 +8,10 @@ Answer: Data science could be used in the healthcare field. For example, data sc
 the spread of illnesses in an area. This could help researchers potentially identify where a disease is spreading and how fast it is spreading. This information can be use to prevent
 this disease from spreading in the future, as well as where it originated from. 
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging uses a merge commit to combine all the changes between two different branches. In this case, the histories from both branches are brought together and are still preserved 
+after the merge is completed. However, merge can complicate the history of the project. A rebase makes new commits for each change made in an original branch, essentially changing the 
+project history. This may be preferred because it can make the history of a project easier to follow.  
+

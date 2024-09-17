@@ -15,3 +15,7 @@ Answer: Merging uses a merge commit to combine all the changes between two diffe
 after the merge is completed. However, merge can complicate the history of the project. A rebase makes new commits for each change made in an original branch, essentially changing the 
 project history. This may be preferred because it can make the history of a project easier to follow.  
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to gain more experience using Python and also am looking forward to improving my data analysis and critical thinking skills. By improving these skills and using course 
+materials, I look forward to analyzing data and using my findings to help solve real-world problems. 
